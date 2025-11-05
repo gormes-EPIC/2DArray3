@@ -1,4 +1,4 @@
-# Lab 16
+# 2D Arrays 3
 ## Conway's Game of Life
 
 ### Objective
